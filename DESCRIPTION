@@ -1,0 +1,16 @@
+Package: supFTSVD
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Depends: Matrix, mvtnorm, sn, mgcv, refund, fda, fdapace, foreach, doParallel, doRNG
+Imports:
+    Matrix, mvtnorm, rsvd, matrixcalc
+RdMacros: Rdpack
+Author: Samsul Alam
+Maintainer: The package maintainer <malam3@ncsu.edu>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
