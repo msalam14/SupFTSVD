@@ -19,3 +19,6 @@ To install the package, run the following codes
 devtools::install_github("https://github.com/msalam14/supFTSVD")
 ```
 
+-   This vignette analyzes the food and resulting microbial metabolite (FARMM) data [@tanes2021role]. 
+
+-   
