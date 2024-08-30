@@ -1,4 +1,5 @@
-#' Supervised functional singular value decomposition
+#' Supervised functional singular value decomposition for high-dimensional 
+#' multivariate functional data
 #' 
 #' This function performs low-rank decomposition of high-dimensional 
 #' multivariate function following the methodology proposed in Alam (2024+)
